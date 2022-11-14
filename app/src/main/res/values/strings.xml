@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UiSencilla</string>
+    <string name="button_send">Enviar</string>
+    <string name="editar_apellido">apellido</string>
+    <string name="editar_nombre">nombre</string>
+    <string name="titulo">Identificate con tu nombre y apellido</string>
+</resources>
